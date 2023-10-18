@@ -1,0 +1,30 @@
+[submodule "inception"]
+	path = inception
+	url = https://github.com/IAmVictorG/inception.git
+[submodule "42_CPP"]
+	path = 42_CPP
+	url = https://github.com/IAmVictorG/42_CPP.git
+[submodule "42_Cube3D"]
+	path = 42_Cube3D
+	url = https://github.com/IAmVictorG/42_Cube3D.git
+[submodule "42_miniRT"]
+	path = 42_miniRT
+	url = https://github.com/IAmVictorG/42_miniRT.git
+[submodule "42_philosophers"]
+	path = 42_philosophers
+	url = https://github.com/IAmVictorG/42_philosophers.git
+[submodule "42_fractal"]
+	path = 42_fractal
+	url = https://github.com/IAmVictorG/42_fractal.git
+[submodule "https:/github.com/IAmVictorG/42_PUSH_SWAP.git"]
+	path = https:/github.com/IAmVictorG/42_PUSH_SWAP.git
+	url = https://github.com/IAmVictorG/42_Minitalk.git
+[submodule "42_Minitalk"]
+	path = 42_Minitalk
+	url = https://github.com/IAmVictorG/42_Minitalk.git
+[submodule "42_PUSH_SWAP"]
+	path = 42_PUSH_SWAP
+	url = https://github.com/IAmVictorG/42_PUSH_SWAP.git
+[submodule "42_GNL"]
+	path = 42_GNL
+	url = https://github.com/IAmVictorG/42_GNL.git
